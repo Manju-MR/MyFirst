@@ -1,4 +1,4 @@
 # MyFirst
 This is my first Git repository
 <br>
-Author<br>Manju
+Author<br>Manju Max
